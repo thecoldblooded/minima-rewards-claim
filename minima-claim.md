@@ -1,6 +1,3 @@
-![alt text](https://i.hizliresim.com/9jcl1yr.png)
-
-
 # Sırasıyla Yapılması Gerekenler
 
 - **Node kurulumu (kurulu node varsa adımı atlayın)**
@@ -157,24 +154,5 @@ docker rm minima9001
 ```
 sudo rm -rf minimadocker9001
 ```
-
-
-- **https://t.me/testnetrun**
-
-- **https://t.me/minima_Turkey**
-
-- **https://www.youtube.com/@TestNetRun**
-
-- **https://testnet.run/**
-
-- **https://stake.testnet.run/**
-
-- **https://twitter.com/testnetrun**
-
-![alt text](https://i.hizliresim.com/qw3rv2w.png)
-
-
-
-
 
 
